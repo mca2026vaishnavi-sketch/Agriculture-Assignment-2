@@ -3,7 +3,7 @@
  *
  * This class contains common information shared by tourists and farmers.
  *
- * @author Aditya Gaonkar
+ * @author Vaishnavi Sharma
  * @version 1.0
  */
 public class Person {
