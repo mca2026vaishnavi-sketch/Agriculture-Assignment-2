@@ -1,7 +1,7 @@
 /**
  * Represents a farm tourism experience available to tourists.
  *
- * @author Aditya Gaonkar
+ * @author AVaishnavi Sharma
  * @version 1.0
  */
 public class FarmTour {
