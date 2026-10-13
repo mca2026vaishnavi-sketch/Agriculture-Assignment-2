@@ -1,7 +1,7 @@
 /**
  * Represents a farmer who follows organic farming practices.
  *
- * @author Aditya Gaonkar
+ * @author Vaishnavi Sharma
  * @version 1.0
  */
 public class OrganicFarmer extends Farmer {
