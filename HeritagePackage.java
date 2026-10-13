@@ -2,7 +2,7 @@
  * Represents a tourism package focused on historical and cultural
  * destinations.
  *
- * @author Aditya Gaonkar
+ * @author Vaishnavi Sharma
  * @version 1.0
  */
 public class HeritagePackage extends TourismPackage {
