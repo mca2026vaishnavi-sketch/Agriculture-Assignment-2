@@ -3,7 +3,7 @@
  *
  * A tourist inherits common personal information from Person.
  *
- * @author Aditya Gaonkar
+ * @author Vaishnavi Sharma
  * @version 1.0
  */
 public class Tourist extends Person {
