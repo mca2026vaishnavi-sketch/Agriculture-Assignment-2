@@ -5,7 +5,7 @@
  * This class combines farming and tourism services to support
  * an agro-tourism business.
  *
- * @author Aditya Gaonkar
+ * @author Vaishnavi Sharma
  * @version 1.0
  */
 public class AgroTourismFarmer extends Farmer
