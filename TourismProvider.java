@@ -1,7 +1,7 @@
 /**
  * Defines tourism services that can be provided by a farmer.
  *
- * @author Aditya Gaonkar
+ * @author Vaishnavi Sharma
  * @version 1.0
  */
 public interface TourismProvider {
