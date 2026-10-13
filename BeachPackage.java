@@ -1,7 +1,7 @@
 /**
  * Represents a tourism package focused on beach destinations.
  *
- * @author Aditya Gaonkar
+ * @author Vaishnavi Sharma
  * @version 1.0
  */
 public class BeachPackage extends TourismPackage {
