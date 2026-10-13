@@ -1,7 +1,7 @@
 /**
  * Represents a farmer registered in the agriculture management system.
  *
- * @author Aditya Gaonkar
+ * @author Vaishnavi Sharma
  * @version 1.0
  */
 public class Farmer extends Person {
